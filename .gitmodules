@@ -1,0 +1,3 @@
+[submodule "MixamoToBlenderBoneNames"]
+	path = MixamoToBlenderBoneNames
+	url = https://gist.github.com/naelstrof/d2747f7838ef2f0fb626a420ef50c8ce
