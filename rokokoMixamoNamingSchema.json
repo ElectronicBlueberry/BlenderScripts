@@ -1,0 +1,145 @@
+{
+    "rokoko_custom_names": true,
+    "version": 1,
+    "bones": {
+        "leftThumbProximal": [
+            "handthumb1.l"
+        ],
+        "leftThumbMedial": [
+            "handthumb2.l"
+        ],
+        "leftThumbDistal": [
+            "handthumb3.l"
+        ],
+        "leftIndexProximal": [
+            "handindex1.l"
+        ],
+        "leftIndexMedial": [
+            "handindex2.l"
+        ],
+        "leftIndexDistal": [
+            "handindex3.l"
+        ],
+        "custom_bone_mixamorig1:lefthandindex4": [
+            "mixamorig1:lefthandindex4",
+            "handindex4.l"
+        ],
+        "leftMiddleProximal": [
+            "handmiddle1.l"
+        ],
+        "leftMiddleMedial": [
+            "handmiddle2.l"
+        ],
+        "leftMiddleDistal": [
+            "handmiddle3.l"
+        ],
+        "custom_bone_mixamorig1:lefthandmiddle4": [
+            "mixamorig1:lefthandmiddle4",
+            "handmiddle4.l"
+        ],
+        "leftRingProximal": [
+            "handring1.l"
+        ],
+        "leftRingMedial": [
+            "handring2.l"
+        ],
+        "leftRingDistal": [
+            "handring3.l"
+        ],
+        "custom_bone_mixamorig1:lefthandring4": [
+            "mixamorig1:lefthandring4",
+            "handring4.l"
+        ],
+        "leftLittleProximal": [
+            "handpinky1.l"
+        ],
+        "leftLittleMedial": [
+            "handpinky2.l"
+        ],
+        "leftLittleDistal": [
+            "handpinky3.l"
+        ],
+        "custom_bone_mixamorig1:lefthandpinky4": [
+            "mixamorig1:lefthandpinky4",
+            "handpinky4.l"
+        ],
+        "rightThumbProximal": [
+            "handthumb1.r"
+        ],
+        "rightThumbMedial": [
+            "handthumb2.r"
+        ],
+        "rightThumbDistal": [
+            "handthumb3.r"
+        ],
+        "custom_bone_mixamorig1:righthandthumb4": [
+            "mixamorig1:righthandthumb4",
+            "handthumb4.r"
+        ],
+        "rightIndexProximal": [
+            "handindex1.r"
+        ],
+        "rightIndexMedial": [
+            "handindex2.r"
+        ],
+        "rightIndexDistal": [
+            "handindex3.r"
+        ],
+        "custom_bone_mixamorig1:righthandindex4": [
+            "mixamorig1:righthandindex4",
+            "handindex4.r"
+        ],
+        "rightMiddleProximal": [
+            "handmiddle1.r"
+        ],
+        "rightMiddleMedial": [
+            "handmiddle2.r"
+        ],
+        "rightMiddleDistal": [
+            "handmiddle3.r"
+        ],
+        "custom_bone_mixamorig1:righthandmiddle4": [
+            "mixamorig1:righthandmiddle4",
+            "handmiddle4.r"
+        ],
+        "rightRingProximal": [
+            "handring1.r"
+        ],
+        "rightRingMedial": [
+            "handring2.r"
+        ],
+        "rightRingDistal": [
+            "handring3.r"
+        ],
+        "custom_bone_mixamorig1:righthandring4": [
+            "mixamorig1:righthandring4",
+            "handring4.r"
+        ],
+        "rightLittleProximal": [
+            "handpinky1.r"
+        ],
+        "rightLittleMedial": [
+            "handpinky2.r"
+        ],
+        "rightLittleDistal": [
+            "handpinky3.r"
+        ],
+        "custom_bone_mixamorig1:righthandpinky4": [
+            "mixamorig1:righthandpinky4",
+            "handpinky4.r"
+        ],
+        "leftLeg": [
+            "leg.l"
+        ],
+        "leftToe": [
+            "toebase.l"
+        ],
+        "rightLeg": [
+            "leg.r"
+        ],
+        "rightToe": [
+            "toebase.r"
+        ]
+    },
+    "shapes": {}
+}
