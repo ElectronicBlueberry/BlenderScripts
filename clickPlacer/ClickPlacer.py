@@ -1,3 +1,12 @@
+# Small Add-on By ElectronicBlueberry (Laila L.),
+# to quickly place linked copies of objects in a scene.
+
+# Press ctrl + right-click in object mode, 
+# to place a linked duplicate of the active object on a surface.
+
+# Settings under the "Tool" Tab.
+# Keybindings configurable via Keymappings, just search for "Click Placer".
+
 bl_info = {
 	"name": "Click Placer",
 	"description": "Place linked duplicate of active object at cursor",
